@@ -16,3 +16,4 @@ Now, open a new notebook:
 ```
 jupyter lab
 ```
+<img src="https://github.com/nmshafie1993/test/blob/main/photo_2022-03-06_23-53-27.jpg" width=60 height=60 />
